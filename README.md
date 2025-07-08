@@ -73,7 +73,7 @@ _Random Forest performed better on fraud recall and F1-score, making it suitable
 <details>
 <summary>Click to View</summary>
 
-![Confusion Matrix](C:\Users\hp\Pictures\Screenshots)  
+![Confusion Matrix](C:\Users\hp\Pictures\Screenshots.jpg)  
 _Confusion Matrix of Random Forest Predictions_
 
 </details>
