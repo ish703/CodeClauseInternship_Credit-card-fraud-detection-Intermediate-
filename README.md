@@ -31,7 +31,7 @@ The dataset is available on Kaggle:
 ## 🛠️ Technologies Used
 
 - Python 3  
-- Jupyter Notebook  
+- Google Colab
 - Libraries:  
   - `pandas`, `numpy`  
   - `matplotlib`, `seaborn`  
